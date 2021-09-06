@@ -1,0 +1,40 @@
+{ 
+		"100001" : {"Category" : "Chocolate" , "Name" : "Dairy Milk" , "Price" : 10 , "Quantity" : 100 , "Weight" : "20gm"},
+		"100002" : {"Category" : "Chocolate" , "Name" : "5 Star" , "Price" : 15 , "Quantity" : 100 , "Weight" : "30gm"},
+		"100003" : {"Category" : "Chocolate" , "Name" : "Kit Kat" , "Price" : 5 , "Quantity" : 150 , "Weight" : "10gm"},
+		"100004" : {"Category" : "Chocolate" , "Name" : "Snickers" , "Price" : 10 , "Quantity" : 80 , "Weight" : "20gm"},
+		"100005" : {"Category" : "Chocolate" , "Name" : "Bounty" , "Price" : 5 , "Quantity" : 50 , "Weight" : "15gm"},
+		"100006" : {"Category" : "Chocolate" , "Name" : "ParleKissMe" , "Price" : 5 , "Quantity" : 100 , "Weight" : "20gm"},
+		"100007" : {"Category" : "Chocolate" , "Name" : "Nestle Chocolate" , "Price" : 10 , "Quantity" : 100 , "Weight" : "18gm"},	
+		"100008" : {"Category" : "Ice Cream" , "Name" : "Havmor Kesar Pista" , "Price" : 30 , "Quantity" : 200 , "Weight" : "90ml"},
+		"100009" : {"Category" : "Ice Cream" , "Name" : "Havmor RajBhog" , "Price" : 30 , "Quantity" : 200 , "Weight" : "90ml"},
+		"100010" : {"Category" : "Ice Cream" , "Name" : "Havmor ButterScotch" , "Price" : 15 , "Quantity" : 200 , "Weight" : "55ml"},
+		"100011" : {"Category" : "Ice Cream" , "Name" : "Vadilal Venilla" , "Price" : 20 , "Quantity" : 200 , "Weight" : "100ml"},
+		"100012" : {"Category" : "Ice Cream" , "Name" : "Vadilal ButterScotch" , "Price" : 30 , "Quantity" : 200 , "Weight" : "150ml"},
+		"100013" : {"Category" : "Ice Cream" , "Name" : "Vadilal ChocolateChips" , "Price" : 30 , "Quantity" : 200 , "Weight" : "150ml"},
+		"100014" : {"Category" : "Ice Cream" , "Name" : "Vadilal MavaBadam" , "Price" : 20 , "Quantity" : 200 , "Weight" : "100ml"},
+		"100015" : {"Category" : "Biscuit " , "Name" : "Parle-G" , "Price" : 10 , "Quantity" : 80 , "Weight" : "60gm"},
+		"100016" : {"Category" : "Biscuit " , "Name" : "Britannia Goodday" , "Price" : 20 , "Quantity" : 50 , "Weight" : "50gm"},
+		"100017" : {"Category" : "Biscuit " , "Name" : "Britannia VitaMarieGold" , "Price" : 20 , "Quantity" : 80 , "Weight" : "120gm"},
+		"100018" : {"Category" : "Biscuit " , "Name" : "Oreo" , "Price" : 10 , "Quantity" : 100 , "Weight" : "30gm"},
+		"100019" : {"Category" : "Biscuit " , "Name" : "Monaco" , "Price" : 10 , "Quantity" : 100 , "Weight" : "80gm"},
+		"100020" : {"Category" : "Biscuit " , "Name" : "Moms Magic" , "Price" : 10 , "Quantity" : 100 , "Weight" : "80gm"},
+		"100021" : {"Category" : "Drinks " , "Name" : "Coco cola" , "Price" : 20 , "Quantity" : 100 , "Weight" : "1.25l"},
+		"100022" : {"Category" : "Drinks " , "Name" : "Sprite" , "Price" : 20 , "Quantity" : 100 , "Weight" : "1.25l"},
+		"100023" : {"Category" : "Drinks " , "Name" : "Fanta" , "Price" : 20 , "Quantity" : 100 , "Weight" : "1.25l"},
+		"100024" : {"Category" : "Drinks " , "Name" : "Thums Up" , "Price" : 20 , "Quantity" : 100 , "Weight" : "1.25l"},
+		"100025" : {"Category" : "Drinks " , "Name" : "Mazza" , "Price" : 20 , "Quantity" : 100 , "Weight" : "1.25l"},
+		"100026" : {"Category" : "Water " , "Name" : "Bislery" , "Price" : 20 , "Quantity" : 50 , "Weight" : "2l"},
+		"100027" : {"Category" : "Water " , "Name" : "Kinley" , "Price" : 20 , "Quantity" : 50 , "Weight" : "2.1l"},
+		"100028" : {"Category" : "Water " , "Name" : "Bailley" , "Price" : 15 , "Quantity" : 50 , "Weight" : "2l"},
+		"100029" : {"Category" : "Water " , "Name" : "TataWaterPlus" , "Price" : 20 , "Quantity" : 50 , "Weight" : "2l"},
+		"100030" : {"Category" : "Water " , "Name" : "Aqafina" , "Price" : 20 , "Quantity" : 50 , "Weight" : "2l"}
+}
+		
+	
+		
+		
+		
+		
+		
+	
